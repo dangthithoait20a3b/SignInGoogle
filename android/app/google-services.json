@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235291114394",
+    "project_id": "signin-ffadb",
+    "storage_bucket": "signin-ffadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235291114394:android:628cf98cdd8648c794d823",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235291114394-kb76a8cf3lln9r77l4fn4p4rd8arvahh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA_8HFAH1CAVZRArc7Yq9s5QjAp4-I6V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235291114394-369arcrojgu4o5sbemka2bvetdessigc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
